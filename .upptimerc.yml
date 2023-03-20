@@ -19,7 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://i.imgur.com/c44pLFe.png
   name: VyHub Status
-  introTitle: "VyHub - The all-in-one management & monetization platformfor your gaming community"
+  introTitle: "VyHub - The all-in-one management & monetization platform for your gaming community"
   introMessage: On this page you can see the status of all VyHub services
   navbar:
     - title: Status
