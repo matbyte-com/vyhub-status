@@ -17,8 +17,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.vyhub.net
   # baseUrl: /your-repo-name
-  logoUrl: https://i.imgur.com/c44pLFe.png
+  logoUrl: https://status.vyhub.net/vyhub_logo_v2_red_grey_on_trans.svg
+  faviconSvg: https://status.vyhub.net/vyhub_logo_v2_icon_white_on_red.svg
   name: VyHub Status
+  themeUrl: https://status.vyhub.net/vyhub.css
   introTitle: "VyHub - The all-in-one management & monetization platform for your gaming community"
   introMessage: On this page you can see the status of all VyHub services
   navbar:
