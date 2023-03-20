@@ -10,7 +10,7 @@ sites:
   - name: VyHub Demo API
     url: https://api.vyhub.app/demo/v1/openapi.json
   - name: VyHub Demo Frontend
-    url: https://demo.vyhub.app
+    url: https://demo.vyhub.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
