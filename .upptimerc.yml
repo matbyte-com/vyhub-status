@@ -5,8 +5,10 @@ repo: vyhub-status # The name of this repository
 sites:
   - name: VyHub Homepage
     url: https://vyhub.net
+  - name: VyHub Homepage API
+    url: https://vyhub.net/api/v1/openapi.json
   - name: VyHub Demo API
-    url: https://api.vyhub.app
+    url: https://api.vyhub.app/demo/v1/openapi.json
   - name: VyHub Demo Frontend
     url: https://demo.vyhub.app
 
