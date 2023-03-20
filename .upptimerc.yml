@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/matbyte-com/vyhub-status/master/assets/vyhub_logo_v2_red_grey_on_trans.svg
   faviconSvg: https://raw.githubusercontent.com/matbyte-com/vyhub-status/master/assets/vyhub_logo_v2_icon_white_on_red.svg
   name: VyHub Status
-  themeUrl: https://raw.githubusercontent.com/matbyte-com/vyhub-status/master/assets/vyhub.css
+  themeUrl: https://status.vyhub.net/themes/dark.css
   introTitle: "VyHub - The all-in-one management & monetization platform for your gaming community"
   introMessage: On this page you can see the status of all VyHub services
   navbar:
