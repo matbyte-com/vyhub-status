@@ -17,6 +17,7 @@ status-website:
   name: VyHub Status
   introTitle: "VyHub - The all-in-one management & monetization platformfor your gaming community"
   introMessage: On this page you can see the status of all VyHub services
+  navbar:
     - title: Status
       href: /
     - title: Homepage
