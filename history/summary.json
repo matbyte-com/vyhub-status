@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.vyhub.app.ico",
     "slug": "vy-hub-demo-api",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "88.59%",
+    "uptimeDay": "88.59%",
+    "uptimeWeek": "88.59%",
+    "uptimeMonth": "88.59%",
+    "uptimeYear": "88.59%",
     "time": 751,
     "timeDay": 751,
     "timeWeek": 751,
@@ -57,22 +57,22 @@
   },
   {
     "name": "VyHub Demo Frontend",
-    "url": "https://demo.vyhub.app",
-    "icon": "https://icons.duckduckgo.com/ip3/demo.vyhub.app.ico",
+    "url": "https://demo.vyhub.net",
+    "icon": "https://icons.duckduckgo.com/ip3/demo.vyhub.net.ico",
     "slug": "vy-hub-demo-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 201,
+    "timeDay": 201,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2023-03-20": 28
+      "2023-03-20": 38
     }
   }
 ]
