@@ -29,5 +29,8 @@ status-website:
     - title: Homepage
       href: https://vyhub.net
 
+i18n:
+  footer: "[About/Legal](https://vyhub.net/legal)"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
