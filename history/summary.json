@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 379,
-    "timeDay": 379,
-    "timeWeek": 379,
-    "timeMonth": 379,
-    "timeYear": 379,
+    "time": 390,
+    "timeDay": 390,
+    "timeWeek": 390,
+    "timeMonth": 390,
+    "timeYear": 390,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 328,
-    "timeWeek": 328,
-    "timeMonth": 328,
-    "timeYear": 328,
+    "time": 330,
+    "timeDay": 330,
+    "timeWeek": 330,
+    "timeMonth": 330,
+    "timeYear": 330,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.vyhub.app.ico",
     "slug": "vy-hub-demo-api",
     "status": "up",
-    "uptime": "88.59%",
-    "uptimeDay": "88.59%",
-    "uptimeWeek": "88.59%",
-    "uptimeMonth": "88.59%",
-    "uptimeYear": "88.59%",
-    "time": 751,
-    "timeDay": 751,
-    "timeWeek": 751,
-    "timeMonth": 751,
-    "timeYear": 751,
-    "dailyMinutesDown": {
-      "2023-03-20": 1
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 748,
+    "timeDay": 748,
+    "timeWeek": 748,
+    "timeMonth": 748,
+    "timeYear": 748,
+    "dailyMinutesDown": {}
   },
   {
     "name": "VyHub Demo Frontend",
@@ -61,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.vyhub.net.ico",
     "slug": "vy-hub-demo-frontend",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 201,
-    "timeDay": 201,
-    "timeWeek": 201,
-    "timeMonth": 201,
-    "timeYear": 201,
-    "dailyMinutesDown": {
-      "2023-03-20": 38
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 203,
+    "timeDay": 203,
+    "timeWeek": 203,
+    "timeMonth": 203,
+    "timeYear": 203,
+    "dailyMinutesDown": {}
   }
 ]
