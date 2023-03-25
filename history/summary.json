@@ -40,18 +40,20 @@
     "url": "https://api.vyhub.app/demo/v1/openapi.json",
     "icon": "https://icons.duckduckgo.com/ip3/api.vyhub.app.ico",
     "slug": "vy-hub-demo-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1139,
-    "timeDay": 1259,
-    "timeWeek": 1139,
-    "timeMonth": 1139,
-    "timeYear": 1139,
-    "dailyMinutesDown": {}
+    "time": 1064,
+    "timeDay": 937,
+    "timeWeek": 1064,
+    "timeMonth": 1064,
+    "timeYear": 1064,
+    "dailyMinutesDown": {
+      "2023-03-25": 0
+    }
   },
   {
     "name": "VyHub Demo Frontend",
