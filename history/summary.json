@@ -40,17 +40,17 @@
     "url": "https://api.vyhub.app/demo/v1/openapi.json",
     "icon": "https://icons.duckduckgo.com/ip3/api.vyhub.app.ico",
     "slug": "vy-hub-demo-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1068,
-    "timeDay": 562,
-    "timeWeek": 1049,
-    "timeMonth": 1068,
-    "timeYear": 1068,
+    "time": 1069,
+    "timeDay": 735,
+    "timeWeek": 1052,
+    "timeMonth": 1069,
+    "timeYear": 1069,
     "dailyMinutesDown": {
       "2023-03-25": 11
     }
