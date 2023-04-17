@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 678,
-    "timeWeek": 600,
-    "timeMonth": 553,
-    "timeYear": 553,
+    "time": 554,
+    "timeDay": 600,
+    "timeWeek": 629,
+    "timeMonth": 554,
+    "timeYear": 554,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vyhub.net.ico",
     "slug": "vy-hub-homepage-api",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
-    "time": 534,
-    "timeDay": 766,
-    "timeWeek": 668,
-    "timeMonth": 534,
-    "timeYear": 534,
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 538,
+    "timeDay": 647,
+    "timeWeek": 699,
+    "timeMonth": 538,
+    "timeYear": 538,
     "dailyMinutesDown": {
       "2023-04-06": 244
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1114,
-    "timeDay": 1215,
-    "timeWeek": 1151,
-    "timeMonth": 1114,
-    "timeYear": 1114,
+    "time": 1116,
+    "timeDay": 1183,
+    "timeWeek": 1213,
+    "timeMonth": 1116,
+    "timeYear": 1116,
     "dailyMinutesDown": {
       "2023-03-25": 11
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 263,
-    "timeDay": 463,
-    "timeWeek": 373,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "time": 265,
+    "timeDay": 316,
+    "timeWeek": 376,
+    "timeMonth": 265,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2023-04-13": 24
     }
