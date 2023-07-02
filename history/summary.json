@@ -45,7 +45,7 @@
     "url": "https://api.vyhub.app/demo/v1/openapi.json",
     "icon": "https://icons.duckduckgo.com/ip3/api.vyhub.app.ico",
     "slug": "vy-hub-demo-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "99.37%",
     "uptimeWeek": "99.71%",
@@ -57,6 +57,7 @@
     "timeMonth": 828,
     "timeYear": 986,
     "dailyMinutesDown": {
+      "2023-07-02": 0,
       "2023-07-01": 9,
       "2023-06-29": 21,
       "2023-06-05": 22,
