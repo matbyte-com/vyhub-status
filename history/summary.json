@@ -4,9 +4,9 @@
     "url": "https://vyhub.net",
     "icon": "https://icons.duckduckgo.com/ip3/vyhub.net.ico",
     "slug": "vy-hub-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 543,
     "timeYear": 529,
     "dailyMinutesDown": {
+      "2023-10-13": 0,
       "2023-06-05": 22
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://vyhub.net/api/v1/openapi.json",
     "icon": "https://icons.duckduckgo.com/ip3/vyhub.net.ico",
     "slug": "vy-hub-homepage-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -36,6 +37,7 @@
     "timeMonth": 571,
     "timeYear": 621,
     "dailyMinutesDown": {
+      "2023-10-13": 0,
       "2023-06-05": 22,
       "2023-04-06": 244
     }
