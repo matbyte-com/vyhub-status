@@ -25,18 +25,19 @@
     "url": "https://app.vyhub.net",
     "icon": "https://icons.duckduckgo.com/ip3/app.vyhub.net.ico",
     "slug": "vy-hub-dashboard",
-    "status": "up",
-    "uptime": "97.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "97.37%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.07%",
-    "uptimeYear": "97.34%",
+    "uptimeYear": "97.37%",
     "time": 588,
     "timeDay": 512,
     "timeWeek": 526,
     "timeMonth": 586,
     "timeYear": 588,
     "dailyMinutesDown": {
+      "2023-11-17": 1,
       "2023-11-03": 669,
       "2023-11-02": 614
     }
@@ -46,9 +47,9 @@
     "url": "https://app.vyhub.net/api/v1/openapi.json",
     "icon": "https://icons.duckduckgo.com/ip3/app.vyhub.net.ico",
     "slug": "vy-hub-dashboard-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +58,9 @@
     "timeWeek": 563,
     "timeMonth": 643,
     "timeYear": 647,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 0
+    }
   },
   {
     "name": "VyHub Demo API",
