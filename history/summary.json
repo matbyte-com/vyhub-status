@@ -26,10 +26,10 @@
     "url": "https://app.vyhub.net",
     "icon": "https://icons.duckduckgo.com/ip3/app.vyhub.net.ico",
     "slug": "vy-hub-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 530,
@@ -38,6 +38,7 @@
     "timeMonth": 506,
     "timeYear": 530,
     "dailyMinutesDown": {
+      "2024-03-05": 1,
       "2023-11-03": 669,
       "2023-11-02": 614
     }
