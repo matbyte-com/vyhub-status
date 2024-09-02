@@ -4,18 +4,19 @@
     "url": "https://vyhub.net",
     "icon": "https://icons.duckduckgo.com/ip3/vyhub.net.ico",
     "slug": "vy-hub-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 840,
+    "time": 841,
     "timeDay": 600,
     "timeWeek": 1943,
     "timeMonth": 988,
     "timeYear": 950,
     "dailyMinutesDown": {
+      "2024-09-02": 0,
       "2024-01-09": 356,
       "2023-10-13": 19
     }
