@@ -50,9 +50,9 @@
     "url": "https://app.vyhub.net/api/v1/openapi.json",
     "icon": "https://icons.duckduckgo.com/ip3/app.vyhub.net.ico",
     "slug": "vy-hub-dashboard-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -62,6 +62,7 @@
     "timeMonth": 462,
     "timeYear": 509,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-07-15": 249,
       "2024-10-04": 10
     }
