@@ -94,9 +94,9 @@
     "url": "https://demo.vyhub.net",
     "icon": "https://icons.duckduckgo.com/ip3/demo.vyhub.net.ico",
     "slug": "vy-hub-demo-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -106,6 +106,7 @@
     "timeMonth": 368,
     "timeYear": 329,
     "dailyMinutesDown": {
+      "2025-09-25": 0,
       "2025-07-15": 160,
       "2025-03-04": 11
     }
