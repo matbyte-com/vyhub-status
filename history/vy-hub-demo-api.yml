@@ -1,7 +1,7 @@
 url: https://api.vyhub.app/demo/v1/openapi.json
-status: up
-code: 200
-responseTime: 886
-lastUpdated: 2025-11-17T23:18:14.983Z
+status: down
+code: 500
+responseTime: 113
+lastUpdated: 2025-11-18T11:55:41.230Z
 startTime: 2023-03-20T13:28:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
