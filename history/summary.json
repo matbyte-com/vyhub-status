@@ -13,7 +13,7 @@
     "time": 234,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 186,
+    "timeMonth": 188,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2025-11-18": 135,
@@ -34,7 +34,7 @@
     "time": 591,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 689,
+    "timeMonth": 696,
     "timeYear": 610,
     "dailyMinutesDown": {
       "2025-10-25": 11,
@@ -57,7 +57,7 @@
     "time": 674,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1194,
+    "timeMonth": 1219,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2025-10-07": 34,
@@ -72,7 +72,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.vyhub.app.ico",
     "slug": "vy-hub-demo-api",
     "status": "up",
-    "uptime": "97.97%",
+    "uptime": "97.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -80,7 +80,7 @@
     "time": 1054,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1669,
+    "timeMonth": 1721,
     "timeYear": 1062,
     "dailyMinutesDown": {
       "2025-10-07": 9,
@@ -132,7 +132,7 @@
     "time": 331,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 201,
+    "timeMonth": 206,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2025-09-25": 11,
