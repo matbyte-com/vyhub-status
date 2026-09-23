@@ -31,14 +31,22 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
+      - name: Require GH_PAT secret
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "$GH_PAT" ]; then
+            echo "GH_PAT secret is required for Update Template CI to push workflow file updates."
+            exit 1
+          fi
       - name: Checkout
         uses: actions/checkout@v6
         with:
           ref: ${{ github.head_ref || github.ref_name }}
-          token: ${{ secrets.GH_PAT || github.token }}
+          token: ${{ secrets.GH_PAT }}
       - name: Update template
         uses: upptime/uptime-monitor@master
         with:
           command: "update-template"
         env:
-          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+          GH_PAT: ${{ secrets.GH_PAT }}
