@@ -21,6 +21,9 @@ on:
   repository_dispatch:
     types: [update_template]
   workflow_dispatch:
+permissions:
+  contents: write
+  workflows: write
 concurrency:
   group: ${{ github.repository }}-${{ github.head_ref || github.ref_name }}-upptime
   cancel-in-progress: false
