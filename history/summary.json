@@ -67,17 +67,17 @@
     "url": "https://api.vyhub.app/demo/v1/openapi.json",
     "icon": "https://icons.duckduckgo.com/ip3/api.vyhub.app.ico",
     "slug": "vy-hub-demo-api",
-    "status": "down",
-    "uptime": "98.05%",
-    "uptimeDay": "95.44%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "93.08%",
+    "status": "up",
+    "uptime": "98.04%",
+    "uptimeDay": "79.60%",
+    "uptimeWeek": "97.09%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "93.03%",
     "time": 1098,
-    "timeDay": 0,
-    "timeWeek": 1894,
-    "timeMonth": 1699,
-    "timeYear": 1134,
+    "timeDay": 883,
+    "timeWeek": 1750,
+    "timeMonth": 1673,
+    "timeYear": 1133,
     "dailyMinutesDown": {
       "2025-11-07": 93,
       "2025-11-18": 135,
@@ -109,7 +109,7 @@
       "2026-03-18": 1440,
       "2026-03-17": 893,
       "2026-04-21": 85,
-      "2026-11-03": 66
+      "2026-11-03": 294
     }
   },
   {
