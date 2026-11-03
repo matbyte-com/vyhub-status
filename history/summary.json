@@ -69,10 +69,10 @@
     "slug": "vy-hub-demo-api",
     "status": "down",
     "uptime": "98.05%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "93.09%",
+    "uptimeDay": "95.44%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "93.08%",
     "time": 1098,
     "timeDay": 0,
     "timeWeek": 1894,
@@ -109,7 +109,7 @@
       "2026-03-18": 1440,
       "2026-03-17": 893,
       "2026-04-21": 85,
-      "2026-11-03": 0
+      "2026-11-03": 66
     }
   },
   {
